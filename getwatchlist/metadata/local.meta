@@ -1,0 +1,12 @@
+[app/ui]
+owner = admin
+version = 4.2.1
+
+[app/launcher]
+owner = admin
+version = 4.2.1
+
+[]
+access = read : [ * ], write : [ admin, power ]
+export = system
+version = 4.2.1
